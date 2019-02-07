@@ -1,0 +1,10 @@
+✓ make Form stateful to avoid  e.target.elements.recipeName.value
+✓ validate empty input
+✓ clear search query
+✓ loader gif
+✓ use loading state on recipe page -> used ternary operator for loader
+✓ remove extra items from state, if it can be calculated based on other items it doesn't have to be in the state
+✓ don't save results in local storage, save query and make search on page mount
+✓ bonus: pagination
+✓ make it work with query params instead of local storage
+✓ add page to url (pagination)
